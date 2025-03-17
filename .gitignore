@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# --- for this project
+lightning_logs
+optimize_sine_data
+MNIST
